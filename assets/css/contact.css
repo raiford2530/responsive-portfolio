@@ -8,6 +8,7 @@
 
 .btn-primary{
     background: rgb(1, 179, 179);
+    border: none;
 }
 
 textarea.form-control{
