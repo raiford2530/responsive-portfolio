@@ -1,3 +1,24 @@
 body{
     background-image: url("../images/background.png");
 }
+
+.navbar {
+    padding-left: 1.9rem;
+    padding-right: 1.9rem;
+}
+
+.bg-light{
+    background: white !important;
+}
+
+.navbar-light .navbar-brand{
+    background: rgb(1, 179, 179);
+    color: white;
+    font-family: 'Source Serif Pro', serif;
+    font-size: 24px;
+}
+
+.nav-link{
+    font-size: 1.1rem;
+}
+
