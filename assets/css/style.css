@@ -1,24 +1,67 @@
-body{
-    background-image: url("../images/background.png");
+body {
+  background-image: url("../images/background.png");
 }
 
 .navbar {
-    padding-left: 1.9rem;
-    padding-right: 1.9rem;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
-.bg-light{
-    background: white !important;
+.bg-light {
+  background: white !important;
 }
 
-.navbar-light .navbar-brand{
+.navbar-light .navbar-brand {
+  background: rgb(1, 179, 179);
+  color: white;
+  font-family: "Source Serif Pro", serif;
+  font-size: 24px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+}
+
+.container {
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+main {
+  background: white;
+  padding: 20px;
+}
+
+h1 {
+  color: rgb(1, 179, 179);
+  font-family: "Source Serif Pro", serif;
+}
+
+.footer-line{
     background: rgb(1, 179, 179);
-    color: white;
-    font-family: 'Source Serif Pro', serif;
-    font-size: 24px;
+    height: 10px;
 }
 
-.nav-link{
-    font-size: 1.1rem;
+footer{
+    background: rgb(102, 102, 102);
+    height: 75px;
+    min-height: 75px;
+    color: rgb(108, 117, 125);
+    position: relative;
+    padding-bottom: 1rem!important;
+
 }
 
+footer span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+ }
+
+ @media screen and (max-width: 500px){
+     .navbar{
+         padding-left: 15px;
+         padding-right: 15px;
+     }
+ }
