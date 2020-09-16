@@ -1,0 +1,18 @@
+.form-group{
+    padding-left: 10px;
+}
+
+.form-control, .btn{
+    border-radius: 0px;;
+}
+
+.btn-primary{
+    background: rgb(1, 179, 179);
+}
+
+textarea.form-control{
+    height: 80px;
+}
+
+
+
