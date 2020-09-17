@@ -8,7 +8,8 @@ The purpose of this project was to create a responsive portfolio website based o
 ![About Me](/assets/screenshots/index-toggle.png)
 ![Contact](/assets/screenshots/contact.png)
 ![Contact](/assets/screenshots/contact-toggle.png)
-![Portfolio](/assets/screenshots/portfolio.png)
+![Portfolio](/assets/screenshots/portfolio1.png)
+![Portfolio](/assets/screenshots/portfolio2.png)
 ![Portfolio](/assets/screenshots/portfolio-toggle.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
